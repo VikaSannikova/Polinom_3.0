@@ -1,0 +1,9 @@
+﻿  Polinom.cpp
+  Создание кода...
+c:\users\виктория\documents\visual studio 2015\projects\polinom_3.0\polinom_3.0\polinom.cpp(53): warning C4172: возвращение адреса локальной или временной переменной
+  Пропуск... (изменения не обнаружены)
+  test_polinom.cpp
+  test_monom.cpp
+  Monom.cpp
+  UnitTests.vcxproj -> C:\Users\Виктория\Documents\Visual Studio 2015\Projects\Polinom_3.0\Debug\UnitTests.exe
+  UnitTests.vcxproj -> C:\Users\Виктория\Documents\Visual Studio 2015\Projects\Polinom_3.0\Debug\UnitTests.pdb (Full PDB)

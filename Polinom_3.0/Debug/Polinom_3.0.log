@@ -1,0 +1,4 @@
+﻿  Polinom.cpp
+c:\users\виктория\documents\visual studio 2015\projects\polinom_3.0\polinom_3.0\polinom.cpp(53): warning C4172: возвращение адреса локальной или временной переменной
+  Polinom_3.0.vcxproj -> C:\Users\Виктория\Documents\Visual Studio 2015\Projects\Polinom_3.0\Debug\Polinom_3.0.exe
+  Polinom_3.0.vcxproj -> C:\Users\Виктория\Documents\Visual Studio 2015\Projects\Polinom_3.0\Debug\Polinom_3.0.pdb (Full PDB)
